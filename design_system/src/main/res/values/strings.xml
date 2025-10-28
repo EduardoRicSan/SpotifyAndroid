@@ -1,0 +1,5 @@
+<resources>
+    <string name="mobah_item_nav_bar_home">Home</string>
+    <string name="mobah_item_nav_bar_search">Search</string>
+    <string name="mobah_item_nav_bar_about">About</string>
+</resources>

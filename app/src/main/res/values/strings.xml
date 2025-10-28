@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BBVAChallenge</string>
+    <string name="home_top_artist">Your Top Artist</string>
+    <string name="home_for_you">For you</string>
+    <string name="artist_sc_tracks">Tracks: %s</string>
+    <string name="about_dev_name">Eduardo Rico</string>
+    <string name="about_dev_role">Android Software Engineer</string>
+    <string name="about_dev_about">Apasionado por crear experiencias móviles intuitivas, escalables y con un gran diseño. 🚀</string>
+    <string name="play_cd">Play</string>
+    <string name="shuffle_cd">Shuffle</string>
+</resources>
